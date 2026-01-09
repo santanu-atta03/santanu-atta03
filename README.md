@@ -1,24 +1,96 @@
-# 💫 About Me:
-I’m a final-year CSE student focused on building real-world, production-grade software.<br>I work mainly with JavaScript, React, Node.js, and MongoDB, and I’m actively improving my system design and open-source workflows.<br><br>🔭 I’m currently working on Ovara — a project focused on practical problem-solving, not demos.<br>👯 I’m looking to collaborate on Intervyo (AI-based interview platform).<br>🤝 I’m looking for help with architecture reviews, scalability decisions, and clean PR practices.<br>🌱 I’m currently learning AI/ML fundamentals with hands-on projects (not just theory).<br>💬 Ask me about open-source contribution workflows, MERN stack, or project structuring.<br>⚡ Fun fact: I care more about clean commits and readable code than fancy UI.
+👋 Hi, I’m Santanu Atta
 
+Full-Stack Developer | MERN Stack | Open-Source Contributor
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6gK3qm8JRF) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Santanu Atta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/attasantanu747) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santanu-atta-139820363) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32069164) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atta_santanu747) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santanu2003atta@gmail.com) 
+I build scalable web applications with a strong focus on clean architecture, performance, and real-world problem solving.
+My primary expertise is in the MERN stack, with experience deploying production-ready apps and contributing to open-source projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santanu-atta03&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=santanu-atta03&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santanu-atta03&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I care less about flashy demos and more about code quality, maintainability, and impact.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=santanu-atta03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🧠 What I Actually Do (Not Buzzwords)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=santanu-atta03&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+Build full-stack web apps using React, Node.js, Express, MongoDB
 
----
-[![](https://visitcount.itsvg.in/api?id=santanu-atta03&icon=0&color=0)](https://visitcount.itsvg.in)
+Design clean UI with Tailwind CSS and component-based architecture
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Implement authentication, REST APIs, and real-time features
+
+Deploy and manage apps on Vercel, Render, Netlify
+
+Contribute to open source with meaningful PRs (not typo fixes)
+
+🛠 Tech Stack (Focused & Honest)
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
+Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,render" /> </p>
+
+⚠️ Anything listed here is something I can defend in an interview.
+
+🚀 Featured Projects (THIS is what recruiters care about)
+🔹 Intervyo — AI-Powered Interview Platform
+
+Tech: MERN, JWT, Socket.IO
+
+Real-time interview experience
+
+Authentication & role-based access
+
+Scalable backend with clean API structure
+
+👉 Repo: Add link here
+👉 Live: Add link here
+
+🔹 Real-Time Chat Application
+
+Tech: React, Node.js, Socket.IO, MongoDB
+
+One-to-one & group messaging
+
+Online/offline user presence
+
+Secure JWT authentication
+
+👉 Repo: Add link here
+
+🔹 Open-Source Contributions
+
+Contributed to multiple community projects
+
+Followed proper Git workflows, PR reviews, and issue discussions
+
+👉 GitHub Activity below 👇
+
+🏆 GitHub Highlights
+GitHub Trophies
+<p> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1" /> </p>
+GitHub Stats
+<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+📈 Contribution Activity
+<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" /> </p>
+🐍 Contribution Snake (Purely Decorative – Optional)
+<p> <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" /> </p>
+
+If you don’t know how this works, don’t add it. Half-knowledge looks bad.
+
+📫 Contact Me
+
+Email: your.email@example.com
+
+LinkedIn: https://linkedin.com/in/yourprofile
+
+GitHub: https://github.com/YOUR_USERNAME
+
+I’m open to:
+
+Internships
+
+Open-source collaboration
+
+Full-stack project work
