@@ -2,24 +2,24 @@
 
 Full-Stack Developer | MERN Stack | Open-Source Contributor
 
-I build scalable web applications with a strong focus on clean architecture, performance, and real-world problem solving.
-My primary expertise is in the MERN stack, with experience deploying production-ready apps and contributing to open-source projects.
+I build scalable, production-focused web applications with a strong emphasis on clean architecture, performance, and maintainability.
+My core expertise lies in the MERN stack, and I actively work on real-world projects and open-source contributions.
 
-I care less about flashy demos and more about code quality, maintainability, and impact.
+I value clarity in code over flashy demos.
 
-🧠 What I Actually Do (Not Buzzwords)
+🧠 What I Do (Clear & Defensible)
 
 Build full-stack web apps using React, Node.js, Express, MongoDB
 
-Design clean UI with Tailwind CSS and component-based architecture
+Design responsive, accessible UIs with Tailwind CSS
 
-Implement authentication, REST APIs, and real-time features
+Implement JWT authentication, REST APIs, and real-time features
 
-Deploy and manage apps on Vercel, Render, Netlify
+Deploy and manage applications on Vercel, Render, Netlify
 
-Contribute to open source with meaningful PRs (not typo fixes)
+Contribute to open source with meaningful PRs and proper Git workflows
 
-🛠 Tech Stack (Focused & Honest)
+🛠 Tech Stack
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" /> </p>
 Backend
@@ -30,67 +30,58 @@ Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /> </p>
 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,render" /> </p>
-
-⚠️ Anything listed here is something I can defend in an interview.
-
-🚀 Featured Projects (THIS is what recruiters care about)
+🚀 Featured Projects
 🔹 Intervyo — AI-Powered Interview Platform
 
 Tech: MERN, JWT, Socket.IO
 
-Real-time interview experience
+Real-time interview experience with secure authentication
 
-Authentication & role-based access
+Clean backend architecture and scalable APIs
 
-Scalable backend with clean API structure
+Deployed and production-ready
 
-👉 Repo: Add link here
-👉 Live: Add link here
+👉 Repo: https://github.com/santanuatta-03/intervyo
+
+👉 Live: (add when ready — don’t fake this)
 
 🔹 Real-Time Chat Application
 
 Tech: React, Node.js, Socket.IO, MongoDB
 
-One-to-one & group messaging
+One-to-one and group messaging
 
-Online/offline user presence
+Online/offline presence tracking
 
-Secure JWT authentication
+JWT-based secure communication
 
-👉 Repo: Add link here
-
-🔹 Open-Source Contributions
-
-Contributed to multiple community projects
-
-Followed proper Git workflows, PR reviews, and issue discussions
-
-👉 GitHub Activity below 👇
+👉 Repo: (add actual repo link only)
 
 🏆 GitHub Highlights
 GitHub Trophies
-<p> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1" /> </p>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=santanuatta-03&theme=darkhub&no-frame=true&row=1" /> </p>
 GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
-📈 Contribution Activity
-<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" /> </p>
-🐍 Contribution Snake (Purely Decorative – Optional)
-<p> <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=santanuatta-03&show_icons=true&theme=tokyonight" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=santanuatta-03&theme=tokyonight" /> </p>
+📈 GitHub Activity Graph
+<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=santanuatta-03&theme=react-dark" /> </p>
+🐍 Contribution Snake (Optional, Decorative)
+<p> <img src="https://github.com/santanuatta-03/santanuatta-03/blob/output/github-contribution-grid-snake.svg" /> </p>
 
-If you don’t know how this works, don’t add it. Half-knowledge looks bad.
+If this doesn’t render, don’t panic — it requires a GitHub Action.
+If you don’t understand it, remove it. Ignorance is visible.
 
-📫 Contact Me
+📫 Contact
 
 Email: your.email@example.com
 
 LinkedIn: https://linkedin.com/in/yourprofile
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/santanuatta-03
 
-I’m open to:
+Open to:
 
 Internships
 
 Open-source collaboration
 
-Full-stack project work
+Full-stack development roles
