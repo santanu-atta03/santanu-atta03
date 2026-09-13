@@ -1,6 +1,20 @@
 # 💫 About Me:
 
-I’m a final-year CSE student focused on building real-world, production-grade software.<br>I work mainly with JavaScript, React, Node.js, and MongoDB, and I’m actively improving my system design and open-source workflows.<br><br>🔭 I’m currently working on Ovara — a project focused on practical problem-solving, not demos.<br>👯 I’m looking to collaborate on Intervyo (AI-based interview platform).<br>🤝 I’m looking for help with architecture reviews, scalability decisions, and clean PR practices.<br>🌱 I’m currently learning AI/ML fundamentals with hands-on projects (not just theory).<br>💬 Ask me about open-source contribution workflows, MERN stack, or project structuring.<br>⚡ Fun fact: I care more about clean commits and readable code than fancy UI.
+I am a Computer Science undergraduate focused on building real-world software systems with strong fundamentals in Data Structures, Algorithms, and core engineering principles.
+
+I have hands-on experience developing full-stack applications and real-time systems. My work includes building a real-time bus tracking system that integrates IoT (ESP32, GPS modules) with a web platform using React, Node.js, and MongoDB, as well as developing a full-stack EdTech platform with authentication, role-based access control, and scalable backend services.
+
+I have solved 300+ problems across LeetCode and GeeksforGeeks, which has strengthened my problem-solving ability and approach to writing efficient, optimized code.
+
+My core technical stack includes:
+React.js, Node.js, Express.js, MongoDB, JavaScript, C++, and Tailwind CSS.
+
+I am particularly interested in:
+• Scalable backend systems
+• Real-time data processing
+• Building end-to-end full-stack applications
+
+Currently, I am seeking internship opportunities where I can contribute to real engineering teams, work on meaningful products, and continue improving through practical development experience.
 
 ## 🌐 Socials:
 
