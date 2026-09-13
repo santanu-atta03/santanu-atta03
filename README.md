@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Santanu Atta</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Python Developer | Exploring AI & Machine Learning 🚀
+B.Tech CSE Student | Python Developer | AI/ML Explorer
 </h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=561C24&height=250&section=header&text=Santanu%20Atta&fontSize=50&fontColor=E8D8C4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=250&section=header&text=Santanu%20Atta&fontSize=50&fontColor=E0F2FE"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6D2932&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Explorer;Problem+Solver;Learning+and+Building+Daily"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Explorer;Problem+Solver;Learning+and+Building+Daily"/>
 </p>
-
 
 <img align="right" alt="coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 # 💫 About Me:
 
