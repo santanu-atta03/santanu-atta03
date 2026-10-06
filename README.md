@@ -4,17 +4,17 @@ Computer Science Student • AI/ML & Full-Stack Developer
 
 Building AI-powered, full-stack software products with a focus on practical engineering, AI, and problem solving.
 
-![Hero](./assets/hero.svg?v=1)
+![Hero](./hero.svg?v=1)
 
-![About](./assets/about-life.svg?v=1)
+![About](./about-life.svg?v=1)
 
-![Stack](./assets/stack.svg?v=1)
+![Stack](./stack.svg?v=1)
 
-![Projects](./assets/projects.svg?v=1)
+![Projects](./projects.svg?v=1)
 
-![ID](./assets/id-dashboard.svg?v=1)
+![ID](./id-dashboard.svg?v=1)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./connect.svg?v=1)
 
 ## Featured Projects
 
