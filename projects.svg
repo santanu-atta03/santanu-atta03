@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+<style>
+.title{font:700 42px Arial,sans-serif;fill:#f5f7fb}
+.h1{font:700 28px Arial,sans-serif;fill:#f5f7fb}
+.body{font:400 17px Arial,sans-serif;fill:#aeb8cc}
+.small{font:600 14px Arial,sans-serif;fill:#7f8ca6;letter-spacing:2px}
+.blue{fill:#247bff}
+.red{fill:#ff354f}
+.card{fill:#0d1424;stroke:#25385f;stroke-width:1.5}
+.chip{fill:#121c31;stroke:#2d4775;stroke-width:1}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.float{animation:float 4s ease-in-out infinite}
+.pulse{animation:pulse 2.5s ease-in-out infinite}
+</style></defs>
+<rect width="1200" height="520" rx="24" fill="#070b16"/>
+
+<text x="55" y="58" class="small red">FEATURED PROJECTS</text>
+<text x="55" y="108" class="title">Things I've Built</text>
+<g transform="translate(55 145)">
+<rect width="345" height="300" rx="20" class="card"/>
+<text x="25" y="45" class="h1">Fake Job Posting Detector</text>
+<text x="25" y="85" class="body">ML system detecting fraudulent job</text>
+<text x="25" y="111" class="body">postings with explainable predictions</text>
+<text x="25" y="137" class="body">and risk-level assessment.</text>
+<text x="25" y="195" class="small blue">REACT • FASTAPI • XGBOOST • SHAP</text>
+<text x="25" y="250" class="body">Live Demo →</text>
+<text x="25" y="275" font-size="13" fill="#247bff">fake-job-detector-mu.vercel.app</text>
+</g>
+<g transform="translate(425 145)">
+<rect width="345" height="300" rx="20" class="card"/>
+<text x="25" y="45" class="h1">Where Is My Bus</text>
+<text x="25" y="85" class="body">Real-time bus tracking using ESP32,</text>
+<text x="25" y="111" class="body">GPS, Node.js, MongoDB and Maps.</text>
+<text x="25" y="137" class="body">Live location visualization.</text>
+<text x="25" y="195" class="small blue">REACT • NODE • MONGODB • GPS</text>
+<text x="25" y="250" class="body">Live Demo →</text>
+<text x="25" y="275" font-size="13" fill="#247bff">gps-tracker-ecru.vercel.app</text>
+</g>
+<g transform="translate(795 145)">
+<rect width="350" height="300" rx="20" class="card"/>
+<text x="25" y="45" class="h1">Intervyo</text>
+<text x="25" y="85" class="body">AI-powered technical &amp; behavioral</text>
+<text x="25" y="111" class="body">interview simulation with feedback</text>
+<text x="25" y="137" class="body">and performance analytics.</text>
+<text x="25" y="195" class="small blue">AI • REACT • NODE • MONGODB</text>
+<text x="25" y="250" class="body">Live Demo →</text>
+<text x="25" y="275" font-size="13" fill="#247bff">intervyo.xyz</text>
+</g>
+
+</svg>
