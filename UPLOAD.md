@@ -1,8 +1,11 @@
-# Upload instructions
+# Upload to GitHub
 
-1. Open your public GitHub profile repository named exactly `santanuatta-03`.
-2. Upload `README.md` and the entire `assets/` folder, preserving the folder structure.
-3. Commit to the default branch.
-4. Open https://github.com/santanuatta-03 to verify the profile.
+Upload these items to the root of the `santanuatta-03` public profile repository:
 
-The SVGs are self-contained and use embedded portrait data, so they do not need a web server.
+- `README.md`
+- `FONT-LICENSES.txt`
+- `assets/`
+
+The `assets/` folder contains the five SVG sections plus the portrait files.
+
+Do not upload the verification PNGs; they are only local preview renders.

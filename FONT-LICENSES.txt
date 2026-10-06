@@ -1,0 +1,14 @@
+Embedded fonts used by hero.svg
+
+1. Inter Display Bold
+Copyright 2016–2023 The Inter Project Authors.
+License: SIL Open Font License 1.1 and Apache License 2.0.
+Source: https://github.com/rsms/inter
+
+2. DejaVu Sans Mono
+Copyright © 2003–2009, 2010–2023 The DejaVu fonts team.
+License: Bitstream Vera License.
+The font may be embedded and redistributed subject to the license terms.
+Source: https://dejavu-fonts.github.io/
+
+The WOFF2 font data is embedded directly inside hero.svg; no external font request is made.
