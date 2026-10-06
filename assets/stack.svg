@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Santanu Atta technology stack</title>
+  <desc id="desc">Professional Material Design inspired technology stack with three subtle tilted orbits and grouped stack chips.</desc>
+
+  <defs>
+    <style>
+      .display{font-family:Arial,sans-serif;font-weight:700}
+      .body{font-family:Arial,sans-serif}
+      .mono{font-family:"Courier New",monospace}
+      .orbit1{animation:orbit1 14s linear infinite}
+      .orbit2{animation:orbit2 18s linear infinite}
+      .orbit3{animation:orbit3 22s linear infinite}
+      @keyframes orbit1{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+      @keyframes orbit2{from{transform:rotate(360deg)}to{transform:rotate(0deg)}}
+      @keyframes orbit3{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+      @media(prefers-reduced-motion:reduce){
+        .orbit1,.orbit2,.orbit3{animation:none!important}
+      }
+    </style>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#172033" flood-opacity=".11"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="620" rx="22" fill="#F7F8FA"/>
+  <rect x="1" y="1" width="1198" height="618" rx="21" fill="none" stroke="#D8DEE8"/>
+  <rect x="34" y="34" width="1132" height="552" rx="20" fill="#FFFFFF" stroke="#E1E6EE" filter="url(#shadow)"/>
+
+  <text x="68" y="80" class="mono" font-size="13" letter-spacing="2.4" fill="#247BFF">TECH STACK</text>
+  <text x="68" y="132" class="display" font-size="42" fill="#172033">Tools I Work With</text>
+  <text x="68" y="165" class="body" font-size="16" fill="#667085">
+    A practical stack for building full-stack products and AI/ML applications.
+  </text>
+
+  <!-- Grouped chips -->
+  <g transform="translate(68 205)">
+    <rect width="355" height="148" rx="16" fill="#FAFBFC" stroke="#D9E0E9"/>
+    <text x="22" y="34" class="display" font-size="18" fill="#172033">Languages</text>
+    <g transform="translate(22 55)">
+      <rect width="105" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="16" y="22" class="body" font-size="13" fill="#344054">JavaScript</text>
+      <rect x="115" width="82" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="133" y="22" class="body" font-size="13" fill="#344054">Python</text>
+      <rect x="207" width="62" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="225" y="22" class="body" font-size="13" fill="#344054">C++</text>
+      <rect x="279" width="54" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="298" y="22" class="body" font-size="13" fill="#344054">C</text>
+    </g>
+    <g transform="translate(22 99)">
+      <rect width="105" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="18" y="22" class="body" font-size="13" fill="#344054">HTML5</text>
+      <rect x="115" width="100" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="133" y="22" class="body" font-size="13" fill="#344054">CSS3</text>
+      <rect x="225" width="108" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="240" y="22" class="body" font-size="13" fill="#344054">Tailwind</text>
+    </g>
+  </g>
+
+  <g transform="translate(68 370)">
+    <rect width="355" height="148" rx="16" fill="#FAFBFC" stroke="#D9E0E9"/>
+    <text x="22" y="34" class="display" font-size="18" fill="#172033">Backend &amp; Data</text>
+    <g transform="translate(22 55)">
+      <rect width="95" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="17" y="22" class="body" font-size="13" fill="#344054">Node.js</text>
+      <rect x="105" width="106" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="120" y="22" class="body" font-size="13" fill="#344054">Express.js</text>
+      <rect x="221" width="91" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="238" y="22" class="body" font-size="13" fill="#344054">FastAPI</text>
+    </g>
+    <g transform="translate(22 99)">
+      <rect width="105" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="19" y="22" class="body" font-size="13" fill="#344054">MongoDB</text>
+      <rect x="115" width="105" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="132" y="22" class="body" font-size="13" fill="#344054">REST APIs</text>
+      <rect x="230" width="82" height="34" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+      <text x="248" y="22" class="body" font-size="13" fill="#344054">Git</text>
+    </g>
+  </g>
+
+  <!-- Orbit stage -->
+  <rect x="455" y="205" width="675" height="313" rx="18" fill="#F8FAFC" stroke="#D9E0E9"/>
+  <text x="485" y="241" class="mono" font-size="12" letter-spacing="2" fill="#667085">TECHNOLOGY ORBITS</text>
+
+  <!-- Orbit paths: restrained Material blue/gray -->
+  <g transform="translate(790 365)">
+    <ellipse cx="0" cy="0" rx="270" ry="82" fill="none" stroke="#B8C6DD" stroke-width="2" transform="rotate(-7)"/>
+    <ellipse cx="0" cy="0" rx="215" ry="62" fill="none" stroke="#C7D2E3" stroke-width="2" transform="rotate(13)"/>
+    <ellipse cx="0" cy="0" rx="160" ry="44" fill="none" stroke="#D4DCE8" stroke-width="2" transform="rotate(-16)"/>
+
+    <circle cx="0" cy="0" r="58" fill="#FFFFFF" stroke="#C9D5E6" filter="url(#shadow)"/>
+    <text x="-37" y="-4" class="mono" font-size="11" fill="#667085">BUILD</text>
+    <text x="-37" y="16" class="display" font-size="17" fill="#172033">STACK</text>
+
+    <!-- Orbit 1 -->
+    <g class="orbit1">
+      <g transform="translate(270 0)">
+        <circle r="27" fill="#FFFFFF" stroke="#247BFF" stroke-width="2"/>
+        <text x="-18" y="5" class="display" font-size="11" fill="#247BFF">JS</text>
+      </g>
+      <g transform="translate(-270 0)">
+        <circle r="27" fill="#FFFFFF" stroke="#247BFF" stroke-width="2"/>
+        <text x="-18" y="5" class="display" font-size="10" fill="#247BFF">React</text>
+      </g>
+    </g>
+
+    <!-- Orbit 2 -->
+    <g class="orbit2">
+      <g transform="translate(215 0)">
+        <circle r="27" fill="#FFFFFF" stroke="#526176" stroke-width="2"/>
+        <text x="-22" y="5" class="display" font-size="10" fill="#344054">Node</text>
+      </g>
+      <g transform="translate(-215 0)">
+        <circle r="27" fill="#FFFFFF" stroke="#526176" stroke-width="2"/>
+        <text x="-24" y="5" class="display" font-size="9" fill="#344054">Mongo</text>
+      </g>
+    </g>
+
+    <!-- Orbit 3 -->
+    <g class="orbit3">
+      <g transform="translate(160 0)">
+        <circle r="27" fill="#FFFFFF" stroke="#247BFF" stroke-width="2"/>
+        <text x="-23" y="5" class="display" font-size="9" fill="#247BFF">Python</text>
+      </g>
+      <g transform="translate(-160 0)">
+        <circle r="27" fill="#FFFFFF" stroke="#247BFF" stroke-width="2"/>
+        <text x="-21" y="5" class="display" font-size="9" fill="#247BFF">FastAPI</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- AI / ML chips -->
+  <g transform="translate(485 475)">
+    <text x="0" y="-12" class="mono" font-size="11" fill="#667085">AI / ML</text>
+    <rect y="4" width="98" height="31" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+    <text x="14" y="25" class="body" font-size="12" fill="#344054">XGBoost</text>
+    <rect x="108" y="4" width="112" height="31" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+    <text x="122" y="25" class="body" font-size="12" fill="#344054">Scikit-learn</text>
+    <rect x="230" y="4" width="70" height="31" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+    <text x="247" y="25" class="body" font-size="12" fill="#344054">SHAP</text>
+    <rect x="310" y="4" width="82" height="31" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+    <text x="326" y="25" class="body" font-size="12" fill="#344054">Pandas</text>
+    <rect x="402" y="4" width="82" height="31" rx="9" fill="#FFFFFF" stroke="#D7DEE8"/>
+    <text x="418" y="25" class="body" font-size="12" fill="#344054">NumPy</text>
+  </g>
+</svg>

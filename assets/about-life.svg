@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620"
+     role="img" aria-labelledby="title desc">
+  <title id="title">About Santanu Atta and interests</title>
+  <desc id="desc">Material Design inspired animated about section with capabilities and a three-slide interests carousel.</desc>
+
+  <defs>
+    <style>
+      .display{font-family:Arial,sans-serif;font-weight:700}
+      .body{font-family:Arial,sans-serif}
+      .mono{font-family:"Courier New",monospace}
+      .slide{opacity:0}
+      .s1{animation:slide1 12s infinite}
+      .s2{animation:slide2 12s infinite}
+      .s3{animation:slide3 12s infinite}
+      @keyframes slide1{
+        0%,30%{opacity:1}
+        33%,100%{opacity:0}
+      }
+      @keyframes slide2{
+        0%,33%{opacity:0}
+        34%,63%{opacity:1}
+        66%,100%{opacity:0}
+      }
+      @keyframes slide3{
+        0%,66%{opacity:0}
+        67%,96%{opacity:1}
+        100%{opacity:0}
+      }
+      .p1{animation:prog1 12s infinite}
+      .p2{animation:prog2 12s infinite}
+      .p3{animation:prog3 12s infinite}
+      @keyframes prog1{0%,30%{width:100%}33%,100%{width:0}}
+      @keyframes prog2{0%,33%{width:0}34%,63%{width:100%}66%,100%{width:0}}
+      @keyframes prog3{0%,66%{width:0}67%,96%{width:100%}100%{width:0}}
+      @media(prefers-reduced-motion:reduce){
+        .slide{animation:none!important}
+        .s1{opacity:1}
+        .p1{animation:none;width:100%!important}
+        .p2,.p3{display:none}
+      }
+    </style>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#172033" flood-opacity=".11"/>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r=".8" fill="#25334a" opacity=".05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="620" rx="22" fill="#F7F8FA"/>
+  <rect width="1200" height="620" rx="22" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="618" rx="21" fill="none" stroke="#D8DEE8"/>
+
+  <rect x="34" y="34" width="1132" height="552" rx="20" fill="#FFFFFF" stroke="#E1E6EE" filter="url(#shadow)"/>
+
+  <text x="68" y="80" class="mono" font-size="13" letter-spacing="2.4" fill="#247BFF">ABOUT / LIFE</text>
+  <text x="68" y="132" class="display" font-size="42" fill="#172033">More Than Just Code</text>
+  <rect x="68" y="151" width="56" height="4" rx="2" fill="#247BFF"/>
+
+  <text x="68" y="194" class="body" font-size="17" fill="#526176">
+    I'm a Computer Science undergraduate focused on building practical
+  </text>
+  <text x="68" y="221" class="body" font-size="17" fill="#526176">
+    AI-powered and full-stack software products.
+  </text>
+  <text x="68" y="248" class="body" font-size="17" fill="#526176">
+    I enjoy solving problems, learning new technologies, and turning
+  </text>
+  <text x="68" y="275" class="body" font-size="17" fill="#526176">
+    ideas into software that is actually useful.
+  </text>
+
+  <!-- Capability cards -->
+  <g transform="translate(68 320)">
+    <rect width="180" height="116" rx="14" fill="#FAFBFC" stroke="#D9E0E9"/>
+    <circle cx="32" cy="34" r="18" fill="#EAF1FF"/>
+    <text x="25" y="41" font-size="19" fill="#247BFF">⌕</text>
+    <text x="60" y="40" class="display" font-size="16" fill="#172033">Problem Solver</text>
+    <text x="20" y="73" class="body" font-size="13" fill="#667085">DSA, debugging</text>
+    <text x="20" y="94" class="body" font-size="13" fill="#667085">&amp; logical thinking</text>
+  </g>
+
+  <g transform="translate(262 320)">
+    <rect width="180" height="116" rx="14" fill="#FAFBFC" stroke="#D9E0E9"/>
+    <circle cx="32" cy="34" r="18" fill="#EAF1FF"/>
+    <text x="23" y="41" font-size="19" fill="#247BFF">↗</text>
+    <text x="60" y="40" class="display" font-size="16" fill="#172033">Product Builder</text>
+    <text x="20" y="73" class="body" font-size="13" fill="#667085">AI, APIs &amp;</text>
+    <text x="20" y="94" class="body" font-size="13" fill="#667085">real-world products</text>
+  </g>
+
+  <g transform="translate(456 320)">
+    <rect width="180" height="116" rx="14" fill="#FAFBFC" stroke="#D9E0E9"/>
+    <circle cx="32" cy="34" r="18" fill="#EAF1FF"/>
+    <text x="23" y="41" font-size="19" fill="#247BFF">+</text>
+    <text x="60" y="40" class="display" font-size="16" fill="#172033">Continuous Learner</text>
+    <text x="20" y="73" class="body" font-size="13" fill="#667085">New tools, patterns</text>
+    <text x="20" y="94" class="body" font-size="13" fill="#667085">&amp; engineering ideas</text>
+  </g>
+
+  <!-- Interest panel -->
+  <rect x="675" y="78" width="455" height="458" rx="18" fill="#F8FAFC" stroke="#D9E0E9"/>
+  <text x="710" y="120" class="mono" font-size="12" letter-spacing="2" fill="#667085">LIFE OUTSIDE TECH</text>
+  <text x="710" y="155" class="display" font-size="27" fill="#172033">My Interests</text>
+
+  <!-- Cricket -->
+  <g class="slide s1">
+    <rect x="710" y="185" width="385" height="245" rx="16" fill="#FFFFFF" stroke="#D9E0E9" filter="url(#shadow)"/>
+    <rect x="710" y="185" width="385" height="72" rx="16" fill="#EEF4FF"/>
+    <circle cx="762" cy="221" r="28" fill="#247BFF"/>
+    <text x="748" y="230" font-size="27" fill="#FFFFFF">🏏</text>
+    <text x="808" y="218" class="display" font-size="23" fill="#172033">Cricket</text>
+    <text x="808" y="241" class="body" font-size="13" fill="#667085">Sport • strategy • team spirit</text>
+    <text x="738" y="292" class="body" font-size="15" fill="#526176">A hobby that keeps me competitive,</text>
+    <text x="738" y="318" class="body" font-size="15" fill="#526176">active and connected to the team.</text>
+    <rect x="738" y="371" width="329" height="8" rx="4" fill="#E6EAF0"/>
+    <rect class="p1" x="738" y="371" width="329" height="8" rx="4" fill="#247BFF"/>
+  </g>
+
+  <!-- Travel -->
+  <g class="slide s2">
+    <rect x="710" y="185" width="385" height="245" rx="16" fill="#FFFFFF" stroke="#D9E0E9" filter="url(#shadow)"/>
+    <rect x="710" y="185" width="385" height="72" rx="16" fill="#EEF4FF"/>
+    <circle cx="762" cy="221" r="28" fill="#247BFF"/>
+    <text x="747" y="230" font-size="27" fill="#FFFFFF">✈</text>
+    <text x="808" y="218" class="display" font-size="23" fill="#172033">Travel</text>
+    <text x="808" y="241" class="body" font-size="13" fill="#667085">Places • people • cultures</text>
+    <text x="738" y="292" class="body" font-size="15" fill="#526176">I like exploring new places, meeting</text>
+    <text x="738" y="318" class="body" font-size="15" fill="#526176">people and seeing different perspectives.</text>
+    <rect x="738" y="371" width="329" height="8" rx="4" fill="#E6EAF0"/>
+    <rect class="p2" x="738" y="371" width="329" height="8" rx="4" fill="#247BFF"/>
+  </g>
+
+  <!-- Gardening -->
+  <g class="slide s3">
+    <rect x="710" y="185" width="385" height="245" rx="16" fill="#FFFFFF" stroke="#D9E0E9" filter="url(#shadow)"/>
+    <rect x="710" y="185" width="385" height="72" rx="16" fill="#EEF4FF"/>
+    <circle cx="762" cy="221" r="28" fill="#247BFF"/>
+    <text x="747" y="230" font-size="27" fill="#FFFFFF">🌱</text>
+    <text x="808" y="218" class="display" font-size="23" fill="#172033">Gardening</text>
+    <text x="808" y="241" class="body" font-size="13" fill="#667085">Plants • nature • balance</text>
+    <text x="738" y="292" class="body" font-size="15" fill="#526176">Growing plants gives me a slower,</text>
+    <text x="738" y="318" class="body" font-size="15" fill="#526176">hands-on break from screens and code.</text>
+    <rect x="738" y="371" width="329" height="8" rx="4" fill="#E6EAF0"/>
+    <rect class="p3" x="738" y="371" width="329" height="8" rx="4" fill="#247BFF"/>
+  </g>
+
+  <!-- Static progress segment indicators -->
+  <g transform="translate(710 463)">
+    <rect width="105" height="5" rx="2.5" fill="#247BFF"/>
+    <rect x="120" width="105" height="5" rx="2.5" fill="#D9E0E9"/>
+    <rect x="240" width="105" height="5" rx="2.5" fill="#D9E0E9"/>
+  </g>
+  <text x="710" y="503" class="mono" font-size="11" fill="#98A2B3">3 INTERESTS • 4 SECOND ROTATION</text>
+</svg>
